@@ -5,7 +5,7 @@ package com.crazyteam.entity;
  * 
  * @author jiangsuyong
  * @since 2013/5/15
- * 
+ * ½«ËÕÓÂSb
  *
  */
 public class User {
@@ -18,6 +18,7 @@ public class User {
 	public Integer getId() {
 		return id;
 	}
+	
 	public void setId(Integer id) {
 		this.id = id;
 	}
